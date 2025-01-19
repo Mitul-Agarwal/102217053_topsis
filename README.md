@@ -3,7 +3,7 @@
 ## TOPSIS PACKAGE Mitul Agarwal - 102217053
 
 **Roll Number:** 102217053  
-**Subgroup:** 3Q25 
+**Subgroup:** 3Q23
 
 The program takes a CSV file containing our data to be ranked, weights and impacts in the form of "+" or "-", separated by commas as inputs and then outputs a resultant CSV file with two additional columns of performance score and ranks.
 
